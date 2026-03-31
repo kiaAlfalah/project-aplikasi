@@ -29,3 +29,4 @@ Susunan Kepanitiaan: Tim yang bertanggung jawab.
 Susunan Acara (Rundown): Jadwal detail kegiatan.
 Anggaran Dana: Estimasi pendapatan dan pengeluaran secara rinci.
 Penutup: Kata penutup dan harapan. https://colab.research.google.com/drive/1dz4SlqsFm63fWj7B16g0ifNittUTJHMo?usp=sharing
+https://docs.google.com/forms/d/e/1FAIpQLSeAONNhbt9b3btl_CGcgojPX5NcAlJPYyI4S3g9pUTgtMxjsA/viewform?usp=send_form
