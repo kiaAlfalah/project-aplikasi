@@ -28,4 +28,4 @@ Waktu dan Tempat: Jadwal dan lokasi pelaksanaan.
 Susunan Kepanitiaan: Tim yang bertanggung jawab.
 Susunan Acara (Rundown): Jadwal detail kegiatan.
 Anggaran Dana: Estimasi pendapatan dan pengeluaran secara rinci.
-Penutup: Kata penutup dan harapan. 
+Penutup: Kata penutup dan harapan. https://colab.research.google.com/drive/1dz4SlqsFm63fWj7B16g0ifNittUTJHMo?usp=sharing
